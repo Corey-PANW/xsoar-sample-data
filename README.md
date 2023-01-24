@@ -1,0 +1,1 @@
+# xsoar-sample-data
